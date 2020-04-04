@@ -1,0 +1,22 @@
+[
+  {
+    "Stack": "No name",
+    "Number of instances": 4,
+    "Type of instances": "it was not possible to map the type of the instance"
+  },
+  {
+    "Stack": "frond-end-app",
+    "Number of instances": 1,
+    "Type of instances": "t2.small"
+  },
+  {
+    "Stack": "backend-end-app",
+    "Number of instances": 1,
+    "Type of instances": "t2.micro"
+  },
+  {
+    "Stack": "server-xpto",
+    "Number of instances": 1,
+    "Type of instances": "t3a.medium"
+  }
+]
