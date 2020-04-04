@@ -8,3 +8,9 @@ The following script performs the following routine:
 4) Sum all the equal values of instance names.
 5) Generates the json file with instance name, type and quantity.
 6) Send this file to a Slack channel.
+
+
+192/5000
+The file 'report-instances-numbers-and-type.json' is the report that is generated;
+
+I put a 'dockerfile' together with the 'requirements.txt' for the application if you want to create a CI / CD of the process;
